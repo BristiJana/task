@@ -1,0 +1,195 @@
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\appsettings.Development.json
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\appsettings.json
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.exe
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.deps.json
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.runtimeconfig.json
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.pdb
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Humanizer.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Npgsql.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\System.CodeDom.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\System.Text.Json.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.csproj.AssemblyReference.cache
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.AssemblyInfoInputs.cache
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.AssemblyInfo.cs
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.csproj.CoreCompileInputs.cache
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets\msbuild.TechPrimeLab.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets\msbuild.build.TechPrimeLab.props
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TechPrimeLab.props
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TechPrimeLab.props
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets.build.json
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets.development.json
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\scopedcss\bundle\TechPrimeLab.styles.css
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.csproj.CopyComplete
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\refint\TechPrimeLab.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.pdb
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.genruntimeconfig.cache
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\ref\TechPrimeLab.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Scrutor.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\DotNet Projects\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\appsettings.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.exe
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.deps.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.runtimeconfig.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.pdb
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Scrutor.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.csproj.AssemblyReference.cache
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.AssemblyInfoInputs.cache
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.AssemblyInfo.cs
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.csproj.CoreCompileInputs.cache
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets\msbuild.TechPrimeLab.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets\msbuild.build.TechPrimeLab.props
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TechPrimeLab.props
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TechPrimeLab.props
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\scopedcss\bundle\TechPrimeLab.styles.css
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.csproj.CopyComplete
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\refint\TechPrimeLab.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.pdb
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.genruntimeconfig.cache
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_SurajGole\TechPrimeLabTask_SurajGole\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\ref\TechPrimeLab.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\appsettings.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.exe
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.deps.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.runtimeconfig.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\TechPrimeLab.pdb
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Scrutor.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.csproj.AssemblyReference.cache
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.AssemblyInfoInputs.cache
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.AssemblyInfo.cs
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.csproj.CoreCompileInputs.cache
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets\msbuild.TechPrimeLab.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets\msbuild.build.TechPrimeLab.props
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TechPrimeLab.props
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TechPrimeLab.props
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\scopedcss\bundle\TechPrimeLab.styles.css
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.csproj.CopyComplete
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\refint\TechPrimeLab.dll
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.pdb
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\TechPrimeLab.genruntimeconfig.cache
+C:\Users\Rhythmflows\Downloads\TechPrimeLabTask_BristiJana\TechPrimeLabTask_BristiJana\TechPrimeLab\TechPrimeLab\obj\Debug\net6.0\ref\TechPrimeLab.dll
